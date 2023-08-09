@@ -3,7 +3,11 @@
 <h3 align="center">A Full stack developer</h3>
 <img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif'/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=linuxtusx5&label=Profile%20views&color=0e75b6&style=flat" alt="linuxtusx5" /> </p>
+## Visitor count 👁️‍🗨️
+
+<br/>  
+<div align="center"><img src="https://profile-counter.glitch.me/{bl33h}/count.svg" /></div>  
+<br/>
 
 - 🌱 I’m currently learning **GraphQL**
 
@@ -25,4 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linuxtusx5&show_icons=true&locale=en&layout=compact" alt="linuxtusx5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linuxtusx5&show_icons=true&locale=en" alt="linuxtusx5" /></p>
-
