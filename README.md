@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 👨‍💻 All of my projects are available at [https://main--salvatus-portfolio.netlify.app](https://main--salvatus-portfolio.netlify.app)
-
 - 💬 Ask me about **Web Devepoment, Nodejs, react, express**
 
 - 📫 How to reach me **salvatusjoffrey@gmail.com**
