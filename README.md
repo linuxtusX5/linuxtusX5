@@ -1,8 +1,7 @@
-![MasterHead](https://i.postimg.cc/FRSCtN53/Vibing-White-Cat-GIF.gif)
-[![Vibing-White-Cat-GIF.gif](https://i.postimg.cc/FRSCtN53/Vibing-White-Cat-GIF.gif)](https://postimg.cc/zbJFKmfG)
-[![Cat-Omg-GIF.gif](https://i.postimg.cc/J0mq9XQC/Cat-Omg-GIF.gif)](https://postimg.cc/xJxMmc76)
-[![Funny-Cat-GIF.gif](https://i.postimg.cc/8CMLN5cp/Funny-Cat-GIF.gif)](https://postimg.cc/gwcxKG3Q)
-[![cats-joy-GIF.gif](https://i.postimg.cc/prqD46TK/cats-joy-GIF.gif)](https://postimg.cc/cttg8TfJ)
+<p align="center">
+  <img src="https://i.postimg.cc/FRSCtN53/Vibing-White-Cat-GIF.gif" alt="MasterHead" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Joffrey Salvatus</h1>
 <h3 align="center">A Full stack developer</h3>
