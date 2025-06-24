@@ -1,4 +1,9 @@
-![MasterHead](https://camo.githubusercontent.com/48094d46aa5bd2fae06330eed4873a0bb55f8432ef37ba1f52fba707c39c77a9/687474703a2f2f746d6f6b6b352e636f2e7a612f696d616765732f576562253230446576656c6f706d656e742e676966)
+![MasterHead](https://i.postimg.cc/FRSCtN53/Vibing-White-Cat-GIF.gif)
+[![Vibing-White-Cat-GIF.gif](https://i.postimg.cc/FRSCtN53/Vibing-White-Cat-GIF.gif)](https://postimg.cc/zbJFKmfG)
+[![Cat-Omg-GIF.gif](https://i.postimg.cc/J0mq9XQC/Cat-Omg-GIF.gif)](https://postimg.cc/xJxMmc76)
+[![Funny-Cat-GIF.gif](https://i.postimg.cc/8CMLN5cp/Funny-Cat-GIF.gif)](https://postimg.cc/gwcxKG3Q)
+[![cats-joy-GIF.gif](https://i.postimg.cc/prqD46TK/cats-joy-GIF.gif)](https://postimg.cc/cttg8TfJ)
+
 <h1 align="center">Hi 👋, I'm Joffrey Salvatus</h1>
 <h3 align="center">A Full stack developer</h3>
 <img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif'/>
